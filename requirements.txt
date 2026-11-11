@@ -1,0 +1,6 @@
+streamlit>=1.35,<2
+pillow>=10.0
+numpy>=1.26
+pandas>=2.0
+plotly>=5.20
+trimesh>=4.0
